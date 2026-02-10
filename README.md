@@ -5,6 +5,10 @@ Comprehensive collection of professional certifications in Data Analytics, Artif
 
 ---
 
+**Revenue Operations**
+
+
+
 **Google Data Analytics**
 *Issued: June 2025*
 *Credential ID: UC-24accc4d-15a9-426f-9391-eb71ac5336e1*
